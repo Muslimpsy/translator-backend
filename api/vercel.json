@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/extract-text.js": {
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
